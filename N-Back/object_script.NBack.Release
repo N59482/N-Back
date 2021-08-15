@@ -1,0 +1,10 @@
+release/game.o
+release/main.o
+release/mainwindow.o
+release/rules.o
+release/statistic.o
+release/qrc_NBackRes.o
+release/moc_game.o
+release/moc_mainwindow.o
+release/moc_rules.o
+release/moc_statistic.o

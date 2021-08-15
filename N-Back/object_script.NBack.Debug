@@ -1,0 +1,10 @@
+debug/game.o
+debug/main.o
+debug/mainwindow.o
+debug/rules.o
+debug/statistic.o
+debug/qrc_NBackRes.o
+debug/moc_game.o
+debug/moc_mainwindow.o
+debug/moc_rules.o
+debug/moc_statistic.o
